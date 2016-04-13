@@ -1,0 +1,23 @@
+{
+  "name": "react-native-select",
+  "version": "0.1.0",
+  "description": "A Picker component for React Native, like select on web, based Picker of React Native",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leechan/react-native-select.git"
+  },
+  "keywords": [
+    "select",
+    "picker",
+    "react-native-select"
+  ],
+  "author": "leechan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leechan/react-native-select/issues"
+  }
+}
